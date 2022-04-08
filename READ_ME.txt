@@ -50,10 +50,11 @@ github.com/ripley777
 "
 
 }
+If(count < 10000000){
 
  count = count + 1;
-
-
  publicAlert();
+
+else{notify contributors(y)}
 
 }
