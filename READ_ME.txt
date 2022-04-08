@@ -57,6 +57,8 @@ Remember the priority list order.
 
 Supporting documents and files are available at the gitHub repository of user ripley777
 
+github.com/ripley777
+
 -ripley
 
 }
