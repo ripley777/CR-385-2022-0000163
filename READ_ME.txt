@@ -1,6 +1,7 @@
+count = 0;
+
 publicAlert {
 
-count = 0;
 
 print{
 
