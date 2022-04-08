@@ -1,5 +1,13 @@
+publicAlert {
+
+count = 0;
+
+Print{
+
 CR 385 2022 0000163
 DC-22-058
+
+
 
 To all those who would protect an infant if given the chance,
 
@@ -26,7 +34,7 @@ County Prosecutors do not have a strong enough track record to be trusted.
 The Kalispell Judicial system is gatekept by a bureaucracy of apathy ...
 (excepting the front desk worker at County Prosecutors Office).
 
-Chief priority: 1: baby safe with mother or loving family member
+Chief priority: 1: baby safe with mother or loving family member (not abusive Foster Home)
 		2: ensure small cash donations arrive to Attorney Lane Benetts Office in order...
 		to ensure mother and baby have enough to eat if under financial pressure.
 
@@ -51,4 +59,11 @@ Supporting documents and files are available at the gitHub repository of user ri
 
 -ripley
 
- 
+}
+
+ count = count + 1;
+
+
+ publicAlert();
+
+}
